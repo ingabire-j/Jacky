@@ -1,5 +1,5 @@
-Tittle
-CONTACT MANAGEMENT: I have designed this project to help users organize hundreds of contacts.it includes the ability to store key details such as names, address, email, telephone number and past activities. Keeping the contacts organized is the most important function of a contact  manager that is why we will need contact lists.
+CONTACT MANAGEMENT: 
+I have designed this project to help users organize hundreds of contacts.it includes the ability to store key details such as names, address, email, telephone number and past activities. Keeping the contacts organized is the most important function of a contact  manager that is why we will need contact lists.
 
 This project will the user will be able to enter his/her:
 id,name
@@ -29,5 +29,6 @@ spring-context
 org.springframework
 spring-webmvc
 
+done by INGABIRE JACQUELINE
 
 
